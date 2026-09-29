@@ -1,12 +1,29 @@
-# iRightMenu Pro
+<p align="center">
+  <img src="https://rm.byteage.com/static/images/favicon-512.png" width="112" alt="iRightMenu Pro icon">
+</p>
 
-**More than a context menu — it's your Finder plugin platform.**
+<h1 align="center">iRightMenu Pro</h1>
 
-[中文说明](README_CN.md)
+<p align="center">
+  <b>The right-click menu your Mac deserves.</b><br>
+  Everything macOS left out, one right-click away.
+</p>
 
-[iRightMenu Pro](https://rm.byteage.com/en) is a macOS Finder context menu enhancement tool that turns your right-click menu into a productivity toolbox. Requires macOS 11 or later.
+<p align="center">
+  <a href="https://rm.byteage.com/en/download"><b>Download</b></a> ·
+  <a href="https://rm.byteage.com/en">Website</a> ·
+  <a href="https://rm.byteage.com/en/pricing">Pricing</a> ·
+  <a href="https://rm.byteage.com/en/docs/getting-started">User Guide</a> ·
+  <a href="README_CN.md">中文</a>
+</p>
 
-### Everyday Essentials
+https://github.com/user-attachments/assets/43c2e4cc-1f17-442a-acb7-85303b07eb2a
+
+<p align="center">
+  <img src="https://rm.byteage.com/static/images/screenshot-en.jpg" alt="The Finder context menu with Open With expanded, next to the menu editor and plugin manager">
+</p>
+
+## Everyday Essentials
 
 - **New File** — Create Word, Excel, Markdown, Python and other files right from the context menu (21 formats), or use your own templates
 - **Open With** — Open folders in Terminal, iTerm2, VS Code and more in one click — nearly 30 tools in all
@@ -14,7 +31,11 @@
 - **File tasks** — Convert HEIC to JPG, compute MD5, copy paths, save clipboard screenshots as PNG, and more
 - **Copy To · Move To · Favorites** — Get to the folders you use most in one step
 
-### Power Features
+<p align="center">
+  <img src="https://rm.byteage.com/static/images/docs/menu-editor-new-file-en.png" alt="New File templates in the menu editor">
+</p>
+
+## Power Features
 
 - **Any script as a menu item** — Bash, Python, Ruby, AppleScript and more, with the selected files passed in; scripts that need root run too, and Shortcuts can be triggered
 - **Lua plugins** — One-click installs from the plugin store, or write your own: the API covers files, HTTP, dialogs, Bluetooth, window management and more
@@ -23,13 +44,16 @@
 - **Status Bar Menu** — Put your favorite items in the menu bar, no right-click needed
 - **iCloud backup** — Back up configurations, templates and plugins to iCloud, optionally every day, and restore on a new Mac in one click
 
-### Download & Pricing
+<p align="center">
+  <img src="https://rm.byteage.com/static/images/docs/menu-editor-script-en.png" alt="A script menu item in the menu editor">
+</p>
 
+## Download & Pricing
+
+- Requires macOS 11 or later
 - [Download from the website](https://rm.byteage.com/en/download)
 - Monthly or lifetime, same features — [see pricing](https://rm.byteage.com/en/pricing)
 - Only need the basics? There's a free version on the [App Store](https://apps.apple.com/us/app/irightmenu/id1542347829?mt=12)
-
----
 
 ## Feedback
 

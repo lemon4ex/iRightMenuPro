@@ -1,12 +1,29 @@
-# iRightMenu Pro
+<p align="center">
+  <img src="https://rm.byteage.com/static/images/favicon-512.png" width="112" alt="iRightMenu Pro 图标">
+</p>
 
-**不只是右键菜单，是你的 Finder 插件平台。**
+<h1 align="center">iRightMenu Pro</h1>
 
-[English](README.md)
+<p align="center">
+  <b>Mac 的右键菜单，本该这么好用</b><br>
+  macOS 没给的，右键一下就有。
+</p>
 
-[iRightMenu Pro](https://rm.byteage.com/zh) 是一款 macOS Finder 右键菜单增强工具，让你的右键菜单变成效率工具箱。支持 macOS 11 及以上。
+<p align="center">
+  <a href="https://rm.byteage.com/zh/download"><b>下载</b></a> ·
+  <a href="https://rm.byteage.com/zh">官网</a> ·
+  <a href="https://rm.byteage.com/zh/pricing">价格</a> ·
+  <a href="https://rm.byteage.com/zh/docs/getting-started">使用说明</a> ·
+  <a href="README.md">English</a>
+</p>
 
-### 日常用得上的
+https://github.com/user-attachments/assets/dc993765-aeea-4d7c-ba71-9857e96bb9a3
+
+<p align="center">
+  <img src="https://rm.byteage.com/static/images/screenshot.jpg" alt="Finder 右键菜单展开「打开方式」，旁边是菜单编辑器和插件管理">
+</p>
+
+## 日常用得上的
 
 - **右键新建文件** — Word、Excel、Markdown、Python 等 21 种格式，也能用自己的模板
 - **打开方式** — 文件夹一键在终端、iTerm2、VS Code 等近 30 个工具里打开
@@ -14,7 +31,11 @@
 - **文件处理** — HEIC 转 JPG、计算 MD5、复制路径、剪贴板截图存成 PNG……
 - **复制到 · 移动到 · 常用目录** — 常用位置一步到位
 
-### 进阶
+<p align="center">
+  <img src="https://rm.byteage.com/static/images/docs/menu-editor-new-file.png" alt="菜单编辑器里的新建文件模板">
+</p>
+
+## 进阶
 
 - **任意脚本变成右键菜单** — Bash、Python、Ruby、AppleScript 等，选中的文件自动传进去；需要 root 权限的脚本也能跑，还能调用「快捷指令」
 - **Lua 插件** — 插件商店一键安装；会写代码可以自己写，API 覆盖文件操作、网络请求、对话框、蓝牙、窗口管理等
@@ -23,13 +44,16 @@
 - **状态栏菜单** — 常用菜单放到状态栏，不用右键也能用
 - **iCloud 备份** — 配置、模板和插件备份到 iCloud，可开启每天自动备份，换 Mac 一键恢复
 
-### 下载与价格
+<p align="center">
+  <img src="https://rm.byteage.com/static/images/docs/menu-editor-script.png" alt="菜单编辑器里的脚本菜单项">
+</p>
 
+## 下载与价格
+
+- 支持 macOS 11 及以上
 - [官网下载](https://rm.byteage.com/zh/download)
 - 月付或买断，功能一样，[价格见官网](https://rm.byteage.com/zh/pricing)
 - 只需要基础功能？[App Store](https://apps.apple.com/cn/app/irightmenu/id1542347829?mt=12) 上有免费版
-
----
 
 ## 问题反馈
 
