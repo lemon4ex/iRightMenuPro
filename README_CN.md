@@ -2,59 +2,70 @@
 
 **不只是右键菜单，是你的 Finder 插件平台。**
 
-[iRightMenu Pro](https://rm.byteage.com) 是一款 macOS Finder 右键菜单增强工具，让你的右键菜单变成强大的效率工具箱。
+[English](README.md)
 
-### 核心功能
+[iRightMenu Pro](https://rm.byteage.com/zh) 是一款 macOS Finder 右键菜单增强工具，让你的右键菜单变成效率工具箱。支持 macOS 11 及以上。
 
-- **可视化菜单编辑器** — 拖拽式设计你的专属右键菜单，支持多级子菜单、条件显示、图标自定义
-- **多语言脚本** — 支持 Bash、Python、Ruby、AppleScript 等任意脚本语言，选中的文件路径自动传递
-- **Lua 插件系统** — 完整的插件 API（文件操作、网络请求、对话框、蓝牙、窗口管理等），功能无限扩展
-- **云盘目录完美支持** — 完美兼容 iCloud Drive、OneDrive、Dropbox 等 FileProvider 目录，普通 Finder 扩展无法使用的地方，我们可以
-- **iCloud 同步** — 配置、模板、插件自动同步到 iCloud，换 Mac、重装系统一键恢复，多设备无缝切换
-- **快捷文件夹** — 常用目录添加到右键菜单，一键跳转
-- **新建文件** — 从自定义模板快速创建任意类型文件
-- **复制/移动** — 选中文件一键复制或移动到预设目录
-- **指定应用打开** — 用 VSCode、Sublime Text、Terminal、iTerm 等常用应用一键打开文件或文件夹
+### 日常用得上的
 
-### 下载
+- **右键新建文件** — Word、Excel、Markdown、Python 等 21 种格式，也能用自己的模板
+- **打开方式** — 文件夹一键在终端、iTerm2、VS Code 等近 30 个工具里打开
+- **修复「已损坏」的 App** — 下载的 App 打不开，右键移除隔离标志
+- **文件处理** — HEIC 转 JPG、计算 MD5、复制路径、剪贴板截图存成 PNG……
+- **复制到 · 移动到 · 常用目录** — 常用位置一步到位
+
+### 进阶
+
+- **任意脚本变成右键菜单** — Bash、Python、Ruby、AppleScript 等，选中的文件自动传进去；需要 root 权限的脚本也能跑，还能调用「快捷指令」
+- **Lua 插件** — 插件商店一键安装；会写代码可以自己写，API 覆盖文件操作、网络请求、对话框、蓝牙、窗口管理等
+- **可视化菜单编辑器** — 拖拽设计右键菜单，支持多级子菜单、条件显示、自定义图标
+- **云盘和系统目录也能用** — iCloud 云盘、OneDrive、Dropbox 等普通 Finder 扩展用不了的目录照样弹出菜单；权限不够时一键以管理员身份重试
+- **状态栏菜单** — 常用菜单放到状态栏，不用右键也能用
+- **iCloud 备份** — 配置、模板和插件备份到 iCloud，可开启每天自动备份，换 Mac 一键恢复
+
+### 下载与价格
 
 - [官网下载](https://rm.byteage.com/zh/download)
+- 月付或买断，功能一样，[价格见官网](https://rm.byteage.com/zh/pricing)
+- 只需要基础功能？[App Store](https://apps.apple.com/cn/app/irightmenu/id1542347829?mt=12) 上有免费版
 
 ---
 
 ## 问题反馈
 
-本仓库用于收集 iRightMenu Pro 的 Bug 反馈和功能建议。
+本仓库收集 iRightMenu Pro 的 Bug 反馈和功能建议。
 
 ### Bug 报告
 
-请使用 [Bug Report](../../issues/new?template=bug_report.yml) 模板提交，建议附上以下信息：
+请用 [Bug 报告](../../issues/new?template=bug_report.yml) 模板提交，附上：
 
-- macOS 版本和 iRightMenu Pro 版本（关于页面可查看）
+- macOS 版本、iRightMenu Pro 版本（设置 → 关于）、从哪里安装的（官网 / App Store）
 - 重现步骤
 - 期望行为与实际行为
 - 截图或录屏（如有）
-- 日志文件（偏好设置 → 诊断 → 打开日志文件夹）
+- 日志（设置 → 诊断 → 打开日志文件夹）
 
 ### 功能建议
 
-请使用 [Feature Request](../../issues/new?template=feature_request.yml) 模板，描述你期望的功能和使用场景。
+请用 [功能建议](../../issues/new?template=feature_request.yml) 模板，写清你想要的功能和使用场景。
 
-### 注意事项
+### 提交前
 
-- 提交前请先 [搜索已有 Issue](../../issues)，避免重复
-- 请使用中文或英文
-- 请勿在 Issue 中提交激活码、许可证密钥等敏感信息
-- 插件开发相关问题请先查阅 [开发文档](https://rm.byteage.com/zh/docs/plugin-guide)
+- 先 [搜索已有 Issue](../../issues)，避免重复
+- 中文、英文都可以
+- 不要贴激活码、许可证密钥等敏感信息
+- 插件开发的问题先看 [插件开发指南](https://rm.byteage.com/zh/docs/guide)
 
-## 交流
+## 联系
 
-欢迎加入 Pro 专属 QQ 交流群：**1097016301**，获取即时帮助和技术支持。
+- Pro 专属 QQ 交流群：**1097016301**（购买后可加入，获取即时帮助）
+- 客服 QQ：102378237
+- 邮箱：support@byteage.com
 
 ## 相关链接
 
-- [官网](https://rm.byteage.com)
-- [使用说明](https://rm.byteage.com/zh/docs/guide)
-- [插件开发文档](https://rm.byteage.com/zh/docs/plugin-guide)
+- [官网](https://rm.byteage.com/zh)
+- [使用说明](https://rm.byteage.com/zh/docs/getting-started)
+- [插件开发指南](https://rm.byteage.com/zh/docs/guide)
 - [更新日志](https://rm.byteage.com/zh/changelog)
 - [下载](https://rm.byteage.com/zh/download)

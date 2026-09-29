@@ -2,41 +2,48 @@
 
 **More than a context menu — it's your Finder plugin platform.**
 
-[iRightMenu Pro](https://rm.byteage.com) is a macOS Finder context menu enhancement tool that turns your right-click menu into a powerful productivity toolbox.
-
 [中文说明](README_CN.md)
 
-### Key Features
+[iRightMenu Pro](https://rm.byteage.com/en) is a macOS Finder context menu enhancement tool that turns your right-click menu into a productivity toolbox. Requires macOS 11 or later.
 
-- **Visual Menu Editor** — Drag-and-drop design for your custom context menu with submenus, conditional display, and custom icons
-- **Multi-language Scripts** — Run Bash, Python, Ruby, AppleScript or any scripting language, with selected file paths passed automatically
-- **Lua Plugin System** — Full-featured plugin API (file operations, HTTP, dialogs, Bluetooth, window management, and more)
-- **Cloud Directory Support** — Works seamlessly with iCloud Drive, OneDrive, Dropbox and other FileProvider directories where normal Finder extensions fail
-- **iCloud Sync** — Configurations, templates, and plugins automatically sync via iCloud. Restore instantly on a new Mac or after a reinstall
-- **Quick Folders** — Add frequently used directories to your context menu for instant access
-- **New File** — Create files from custom templates in any directory
-- **Copy/Move** — Quickly copy or move selected files to preset directories
-- **Open With** — Open files or folders instantly with VSCode, Sublime Text, Terminal, iTerm, and other favorite apps
+### Everyday Essentials
 
-### Download
+- **New File** — Create Word, Excel, Markdown, Python and other files right from the context menu (21 formats), or use your own templates
+- **Open With** — Open folders in Terminal, iTerm2, VS Code and more in one click — nearly 30 tools in all
+- **Fix "damaged" apps** — Downloaded app won't open? Right-click to remove the quarantine flag
+- **File tasks** — Convert HEIC to JPG, compute MD5, copy paths, save clipboard screenshots as PNG, and more
+- **Copy To · Move To · Favorites** — Get to the folders you use most in one step
 
-- [Download from website](https://rm.byteage.com/en/download)
+### Power Features
+
+- **Any script as a menu item** — Bash, Python, Ruby, AppleScript and more, with the selected files passed in; scripts that need root run too, and Shortcuts can be triggered
+- **Lua plugins** — One-click installs from the plugin store, or write your own: the API covers files, HTTP, dialogs, Bluetooth, window management and more
+- **Visual menu editor** — Drag and drop to design your menu, with submenus, conditional display and custom icons
+- **Works in cloud and system folders** — iCloud Drive, OneDrive, Dropbox and other folders where regular Finder extensions don't work; retry as administrator when permissions fall short
+- **Status Bar Menu** — Put your favorite items in the menu bar, no right-click needed
+- **iCloud backup** — Back up configurations, templates and plugins to iCloud, optionally every day, and restore on a new Mac in one click
+
+### Download & Pricing
+
+- [Download from the website](https://rm.byteage.com/en/download)
+- Monthly or lifetime, same features — [see pricing](https://rm.byteage.com/en/pricing)
+- Only need the basics? There's a free version on the [App Store](https://apps.apple.com/us/app/irightmenu/id1542347829?mt=12)
 
 ---
 
 ## Feedback
 
-This repository is for collecting bug reports and feature requests for iRightMenu Pro.
+This repository collects bug reports and feature requests for iRightMenu Pro.
 
 ### Bug Reports
 
 Please use the [Bug Report](../../issues/new?template=bug_report.yml) template and include:
 
-- macOS version and iRightMenu Pro version (found in the About page)
+- macOS version, iRightMenu Pro version (Settings → About), and where you installed it from (website or App Store)
 - Steps to reproduce
 - Expected vs actual behavior
 - Screenshots or screen recordings (if applicable)
-- Log files (Preferences → Diagnostics → Open Log Folder)
+- Logs (Settings → Diagnostics → Open Log Folder)
 
 ### Feature Requests
 
@@ -45,18 +52,18 @@ Please use the [Feature Request](../../issues/new?template=feature_request.yml) 
 ### Before Submitting
 
 - [Search existing issues](../../issues) to avoid duplicates
-- Use Chinese or English
+- Chinese or English are both fine
 - Do not include activation codes or license keys
-- For plugin development questions, refer to the [developer docs](https://rm.byteage.com/en/docs/plugin-guide)
+- For plugin development questions, see the [Plugin Developer Guide](https://rm.byteage.com/en/docs/guide)
 
 ## Contact
 
-For direct support, email us at **support@byteage.com**
+Email **support@byteage.com**
 
 ## Links
 
-- [Website](https://rm.byteage.com)
-- [User Guide](https://rm.byteage.com/en/docs/guide)
-- [Plugin Developer Guide](https://rm.byteage.com/en/docs/plugin-guide)
+- [Website](https://rm.byteage.com/en)
+- [User Guide](https://rm.byteage.com/en/docs/getting-started)
+- [Plugin Developer Guide](https://rm.byteage.com/en/docs/guide)
 - [Changelog](https://rm.byteage.com/en/changelog)
 - [Download](https://rm.byteage.com/en/download)

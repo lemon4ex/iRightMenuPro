@@ -6,7 +6,7 @@ body:
     id: description
     attributes:
       label: 问题描述 / Description
-      description: 清晰描述你遇到的问题
+      description: 清晰描述你遇到的问题 | Describe the problem
       placeholder: 描述问题...
     validations:
       required: true
@@ -15,7 +15,7 @@ body:
     id: steps
     attributes:
       label: 重现步骤 / Steps to Reproduce
-      description: 详细列出重现该问题的步骤
+      description: 详细列出重现该问题的步骤 | List the steps that reproduce it
       placeholder: |
         1. 打开 ...
         2. 点击 ...
@@ -27,7 +27,7 @@ body:
     id: expected
     attributes:
       label: 期望行为 / Expected Behavior
-      description: 你期望发生什么
+      description: 你期望发生什么 | What you expected to happen
     validations:
       required: true
 
@@ -35,7 +35,7 @@ body:
     id: actual
     attributes:
       label: 实际行为 / Actual Behavior
-      description: 实际发生了什么
+      description: 实际发生了什么 | What actually happened
     validations:
       required: true
 
@@ -43,8 +43,8 @@ body:
     id: macos-version
     attributes:
       label: macOS 版本 / macOS Version
-      description: "系统设置 → 通用 → 关于 中查看"
-      placeholder: "例如: macOS 15.4.1"
+      description: "系统设置 → 通用 → 关于 | System Settings → General → About"
+      placeholder: "例如 / e.g. macOS 26.0"
     validations:
       required: true
 
@@ -52,8 +52,19 @@ body:
     id: app-version
     attributes:
       label: iRightMenu Pro 版本 / App Version
-      description: 在 关于页面 中查看
-      placeholder: "例如: 2.2.0 (41)"
+      description: "iRightMenu Pro 的设置 → 关于 | Settings → About in iRightMenu Pro"
+      placeholder: "例如 / e.g. 2.7.0 (51)"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: install-source
+    attributes:
+      label: 安装来源 / Installed From
+      description: 官网版和 App Store 版功能不同 | The website and App Store versions differ in features
+      options:
+        - 官网 / Website
+        - App Store
     validations:
       required: true
 
@@ -71,7 +82,7 @@ body:
     id: logs
     attributes:
       label: 日志文件 / Log Files
-      description: "偏好设置 → 诊断 → 打开日志文件夹，粘贴相关日志内容"
+      description: "设置 → 诊断 → 打开日志文件夹，粘贴相关日志内容 | Settings → Diagnostics → Open Log Folder, then paste the relevant lines"
       render: text
     validations:
       required: false
@@ -80,6 +91,6 @@ body:
     id: screenshots
     attributes:
       label: 截图或录屏 / Screenshots
-      description: 拖拽图片到此处上传
+      description: 拖拽图片或录屏到此处上传 | Drag images or recordings here
     validations:
       required: false
