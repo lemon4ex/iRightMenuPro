@@ -17,6 +17,8 @@
   <a href="README.md">English</a>
 </p>
 
+<p align="center"><sub>iRightMenu Pro 是商业软件，不开源。这个仓库是它的产品页和问题反馈区，没有源代码。</sub></p>
+
 https://github.com/user-attachments/assets/dc993765-aeea-4d7c-ba71-9857e96bb9a3
 
 <p align="center">
