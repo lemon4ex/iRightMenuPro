@@ -55,7 +55,6 @@ https://github.com/user-attachments/assets/43c2e4cc-1f17-442a-acb7-85303b07eb2a
 - Requires macOS 11 or later
 - [Download from the website](https://rm.byteage.com/en/download)
 - Monthly or lifetime, same features — [see pricing](https://rm.byteage.com/en/pricing)
-- Only need the basics? There's a free version on the [App Store](https://apps.apple.com/us/app/irightmenu/id1542347829?mt=12)
 
 ## Feedback
 

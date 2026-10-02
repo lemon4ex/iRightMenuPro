@@ -55,7 +55,6 @@ https://github.com/user-attachments/assets/dc993765-aeea-4d7c-ba71-9857e96bb9a3
 - 支持 macOS 11 及以上
 - [官网下载](https://rm.byteage.com/zh/download)
 - 月付或买断，功能一样，[价格见官网](https://rm.byteage.com/zh/pricing)
-- 只需要基础功能？[App Store](https://apps.apple.com/cn/app/irightmenu/id1542347829?mt=12) 上有免费版
 
 ## 问题反馈
 
