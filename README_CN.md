@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://rm.byteage.com/static/images/favicon-512.png" width="112" alt="iRightMenu Pro 图标">
+  <img src="images/favicon-512.png" width="112" alt="iRightMenu Pro 图标">
 </p>
 
 <h1 align="center">iRightMenu Pro</h1>
@@ -22,19 +22,19 @@
 https://github.com/user-attachments/assets/dc993765-aeea-4d7c-ba71-9857e96bb9a3
 
 <p align="center">
-  <img src="https://rm.byteage.com/static/images/screenshot.jpg" alt="Finder 右键菜单展开「打开方式」，旁边是菜单编辑器和插件管理">
+  <img src="images/screenshot.jpg" alt="Finder 右键菜单展开「打开方式」，旁边是菜单编辑器和插件管理">
 </p>
 
 ## 日常用得上的
 
 - **右键新建文件** — Word、Excel、Markdown、Python 等 21 种格式，也能用自己的模板
-- **打开方式** — 文件夹一键在终端、iTerm2、VS Code 等近 30 个工具里打开
+- **打开方式** — 文件夹一键在终端、iTerm2、VS Code 等 20 多个工具里打开
 - **修复「已损坏」的 App** — 下载的 App 打不开，右键移除隔离标志
 - **文件处理** — HEIC 转 JPG、计算 MD5、复制路径、剪贴板截图存成 PNG……
 - **复制到 · 移动到 · 常用目录** — 常用位置一步到位
 
 <p align="center">
-  <img src="https://rm.byteage.com/static/images/docs/menu-editor-new-file.png" alt="菜单编辑器里的新建文件模板">
+  <img src="images/docs/menu-editor-new-file.png" alt="菜单编辑器里的新建文件模板">
 </p>
 
 ## 进阶
@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/dc993765-aeea-4d7c-ba71-9857e96bb9a3
 - **iCloud 备份** — 配置、模板和插件备份到 iCloud，可开启每天自动备份，换 Mac 一键恢复
 
 <p align="center">
-  <img src="https://rm.byteage.com/static/images/docs/menu-editor-script.png" alt="菜单编辑器里的脚本菜单项">
+  <img src="images/docs/menu-editor-script.png" alt="菜单编辑器里的脚本菜单项">
 </p>
 
 ## 下载与价格

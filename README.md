@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://rm.byteage.com/static/images/favicon-512.png" width="112" alt="iRightMenu Pro icon">
+  <img src="images/favicon-512.png" width="112" alt="iRightMenu Pro icon">
 </p>
 
 <h1 align="center">iRightMenu Pro</h1>
@@ -22,19 +22,19 @@
 https://github.com/user-attachments/assets/43c2e4cc-1f17-442a-acb7-85303b07eb2a
 
 <p align="center">
-  <img src="https://rm.byteage.com/static/images/screenshot-en.jpg" alt="The Finder context menu with Open With expanded, next to the menu editor and plugin manager">
+  <img src="images/screenshot-en.jpg" alt="The Finder context menu with Open With expanded, next to the menu editor and plugin manager">
 </p>
 
 ## Everyday Essentials
 
 - **New File** — Create Word, Excel, Markdown, Python and other files right from the context menu (21 formats), or use your own templates
-- **Open With** — Open folders in Terminal, iTerm2, VS Code and more in one click — nearly 30 tools in all
+- **Open With** — Open folders in Terminal, iTerm2, VS Code and more in one click — over 20 tools in all
 - **Fix "damaged" apps** — Downloaded app won't open? Right-click to remove the quarantine flag
 - **File tasks** — Convert HEIC to JPG, compute MD5, copy paths, save clipboard screenshots as PNG, and more
 - **Copy To · Move To · Favorites** — Get to the folders you use most in one step
 
 <p align="center">
-  <img src="https://rm.byteage.com/static/images/docs/menu-editor-new-file-en.png" alt="New File templates in the menu editor">
+  <img src="images/docs/menu-editor-new-file-en.png" alt="New File templates in the menu editor">
 </p>
 
 ## Power Features
@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/43c2e4cc-1f17-442a-acb7-85303b07eb2a
 - **iCloud backup** — Back up configurations, templates and plugins to iCloud, optionally every day, and restore on a new Mac in one click
 
 <p align="center">
-  <img src="https://rm.byteage.com/static/images/docs/menu-editor-script-en.png" alt="A script menu item in the menu editor">
+  <img src="images/docs/menu-editor-script-en.png" alt="A script menu item in the menu editor">
 </p>
 
 ## Download & Pricing
